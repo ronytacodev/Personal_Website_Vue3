@@ -1,12 +1,12 @@
 <template>
     <div>
-        <h3>Here are personal data about the person</h3>
+        <h3>Here are facts about the person</h3>
     </div>
 </template>
 
 <script>
 export default {
-    name: 'ThePersonalData'
+    name: 'TheAbout'
 }
 </script>
 
