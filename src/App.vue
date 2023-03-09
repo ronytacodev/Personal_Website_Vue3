@@ -22,4 +22,9 @@ export default {
 }
 </script>
 
-<style></style>
+<style>
+* {
+  margin: 0px;
+  padding: 0px;
+}
+</style>
