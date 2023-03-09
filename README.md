@@ -1,9 +1,22 @@
-# webpersonal-vue
+# WEB PERSONAL GOKU :fire:
+
+Code to create personal website with GOKU theme, using Vue3, VueCli and Sass.
+
+## Screenshot
+
+* 1. Data and About
+
+![](src/assets/webGoku1.jpg)
+
+* 2. Skills
+
+![](src/assets/webGoku2.jpg)
 
 ## Project setup
 ```
 npm install
 ```
+![](src/assets/logo.png)
 
 ### Compiles and hot-reloads for development
 ```
