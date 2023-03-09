@@ -4,11 +4,11 @@ Code to create personal website with GOKU theme, using Vue3, VueCli and Sass.
 
 ## Screenshot
 
-* 1. Data and About
+*  Data and About
 
 ![](src/assets/webGoku1.jpg)
 
-* 2. Skills
+*  Skills
 
 ![](src/assets/webGoku2.jpg)
 
