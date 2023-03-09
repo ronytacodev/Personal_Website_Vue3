@@ -18,7 +18,7 @@
 
                     <!--Import base component VButtonMain -->
                     <v-button-main texto="Linkedin" color-texto="#ff9f1a" color-fondo="#212121" />
-                    <v-button-main texto="Github" color-texto="#ff9f1a" color-fondo="#212121" />
+                    <v-button-main texto="Github" color-texto="#212121" color-fondo="#ff9f1a" />
 
                 </div>
             </div>
@@ -46,7 +46,7 @@ export default {
     justify-content: center;
     align-items: center;
     border: 1px solid;
-    padding: 3em 0 3em 0;
+    padding: 4em 0 4em 0;
     background: $color1;
     opacity: .90;
 

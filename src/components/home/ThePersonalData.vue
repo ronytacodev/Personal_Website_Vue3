@@ -47,6 +47,7 @@ export default {
         display: flex;
         justify-content: center;
         align-items: center;
+        padding: 3em 0 3em 0;
 
         &__content {
             width: 300px;
@@ -76,6 +77,7 @@ export default {
     &__right {
         background: $color2;
         width: 40%;
+        padding: 3em 0 3em 0;
 
         &__img {
             width: 200px;
