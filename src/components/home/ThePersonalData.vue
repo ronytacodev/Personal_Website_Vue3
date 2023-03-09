@@ -39,7 +39,6 @@ export default {
 @import '@/components/app.scss';
 
 .personal-data {
-    border: 1px solid;
     display: flex;
 
     &__left {
